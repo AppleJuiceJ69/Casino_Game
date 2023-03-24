@@ -1,0 +1,1 @@
+print(f' [{rand1}] [{rand2}] [{rand3}]', '\n')
